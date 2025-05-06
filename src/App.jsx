@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import "./app.css"
+import "./App.css"
 
 export default function App() {
   const [complimentIndex, setComplimentIndex] = useState(0)
