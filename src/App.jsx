@@ -30,15 +30,25 @@ export default function App() {
   ]
 
   const romanticPoem = [
-    "Roses are red,",
-    "Violets are blue,",
-    "Sugar is sweet,",
-    "And so are you...",
-    "But roses wilt,",
-    "And violets fade,",
-    "Sugar packets get stolen at restaurants,",
-    "But my love for you will never degrade.",
-    "❤️",
+    "In a world of many faces, you’re my favorite view," , 
+    "A soul so gentle, warm, and true." , 
+    "Your laugh, a melody I long to hear,"  ,
+    "Your presence, love, forever near."  ,
+    
+    "When skies are gray, you paint them blue,"  ,
+    "With just one smile, the sun shines through." , 
+    "You lift me up with every word,"  ,
+    "The sweetest song I’ve ever heard."  ,
+    
+    "Your heart's a place I call my home,"  ,
+    "No matter where I choose to roam."  ,
+    "In every hug, in every kiss,"  ,
+    "You give me strength, you give me bliss." , 
+    
+    "So here’s to you, my constant light," , 
+    "Who turns my wrongs into what's right."  ,
+    "I’m grateful more than words can show,"  ,
+    "For you, my Bebu — I hope you know."  ,
   ]
 
   const createHeart = () => {
@@ -329,7 +339,7 @@ export default function App() {
 
       <footer>
         <p>Created with 💖 and questionable coding skills</p>
-        <p className="copyright">© Forever Yours (or at least until the WiFi drops)</p>
+        <p className="copyright">© Forever Yours </p>
       </footer>
     </div>
   )
